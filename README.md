@@ -6,3 +6,6 @@ This script gets a xml file from Disk location and creates a DPP with respective
 
 As it is local atom we add the configure file path as a DPP and get the file from the configure file path location
 
+![image](https://github.com/manasch19/DynamicDPPSetting_using-script-/assets/97012694/cdd12116-70bb-487e-9883-5567c27419ad)
+
+
